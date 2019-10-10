@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "Meals App",
+    "description": "This is a test",
     "slug": "Practice-app",
     "privacy": "public",
     "sdkVersion": "34.0.0",
@@ -9,9 +10,14 @@
       "android",
       "web"
     ],
+    "android":{
+      "package": "com.kevocorp.myapp",
+      "versionCode": 1,
+      "permissions":[]
+    },
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/foodDome.ico",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
