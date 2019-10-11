@@ -17,7 +17,7 @@
     },
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/foodDome.ico",
+    "icon": "./assets/food.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
